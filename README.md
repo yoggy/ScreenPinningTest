@@ -4,7 +4,7 @@ ScreenPinningTest
 ![img01.png](img01.png)
 
 Reference
-  - [Android 5.0 API | Android Developers ��ʌŒ�](https://developer.android.com/about/versions/android-5.0.html#ScreenPinning)
+  - [Android 5.0 API | Android Developers 画面固定](https://developer.android.com/about/versions/android-5.0.html#ScreenPinning)
 
 Copyright and license
 ----
